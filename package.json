@@ -1,0 +1,24 @@
+{
+  "name": "project-ci",
+  "version": "0.1.0",
+  "description": "this is a project used for some website checkin",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "tough-cookie": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XylitolLin/project-ci.git"
+  },
+  "author": "xylitol_lin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XylitolLin/project-ci/issues"
+  },
+  "homepage": "https://github.com/XylitolLin/project-ci#readme"
+}
