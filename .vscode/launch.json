@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "启动程序",
-            "program": "${workspaceRoot}/index.js",
+            "program": "${workspaceRoot}/schedule.js",
             "runtimeExecutable": "${env:HOME}/.nvm/versions/node/v6.11.0/bin/node"
         }
     ]
